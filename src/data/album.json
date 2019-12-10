@@ -1,0 +1,92 @@
+[
+    {
+        "make": "Ford",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://images.clarin.com/2016/04/14/rJroGxkEl_1256x620.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1965"
+    },
+    {
+        "make": "Cobra",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://k38.kn3.net/taringa/5/6/7/8/8/3/4/macdaddycarlos/4E4.jpg?3108",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1956"
+    },
+    {
+        "make": "Mercury",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://www.canalcar.es/themes/canalcar/img/chevrolet-bel-air.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1968"
+    },
+    {
+        "make": "Lambo",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEfzkFOBifxcqkwy647SR9jzDieC-7s6hZbibnhbUGAjXNMhe&s",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1965"
+    },
+    {
+        "make": "Jaguar",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://s3.amazonaws.com/ptx-blogs/wp-content/uploads/sites/4/2017/05/25060056/Experto-1-7.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1945"
+    },
+    {
+        "make": "Oldsmovile",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://www.puranoticia.cl/noticias/site/artic/20160419/imag/foto_0000000720160419121620.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1985"
+    },
+    {
+        "make": "Pontiac",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://cdn.aarp.net/content/dam/aarp/auto/2017/02/1140-classic-car-safety-esp.imgcache.revcf570db4a9bb5bcf23f11618d66eb436.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1978"
+    },
+    {
+        "make": "Cobra",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "http://static.emol.cl/emol50/Fotos/2017/06/07/file_20170607125821.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1935"
+    },
+    {
+        "make": "Chevy",
+        "model": "F125",
+        "color": "Red",
+        "Year": "1965",
+        "src": "https://i.pinimg.com/originals/75/f3/29/75f329c75a32b00f3e4ae9e53f1b4f6e.jpg",
+        "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "altText": "Item alt text",
+        "time": "1985"
+    }
+]
